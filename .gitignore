@@ -1,0 +1,53 @@
+# ==================================================
+# RPG Maker VX Ace .gitignore
+# ==================================================
+
+# 윈도우 시스템 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# RPG Maker VX Ace 자동 생성 파일
+# 게임을 실행하거나 저장할 때마다 변경되는 임시 파일들입니다.
+Game.exe
+Game.ini
+System.rvdata2
+*.rvdata2
+
+# 암호화된 게임 데이터 아카이브
+# 이 파일은 프로젝트 소스가 아니라 '빌드' 결과물이므로 제외합니다.
+Game.rgss3a
+
+# 오디오 파일 (용량이 매우 크므로 Git LFS로 관리하는 것을 권장)
+# 만약 Git LFS를 사용하지 않는다면, 아래 주석을 해제하여 제외하세요.
+# Audio/BGM/
+# Audio/BGS/
+# Audio/ME/
+# Audio/SE/
+
+# 그래픽 파일 (용량이 크므로 Git LFS로 관리하는 것을 권장)
+# 만약 Git LFS를 사용하지 않는다면, 아래 주석을 해제하여 제외하세요.
+# Graphics/Animations/
+# Graphics/Battlebacks1/
+# Graphics/Battlebacks2/
+# Graphics/Battlers/
+# Graphics/Characters/
+# Graphics/Faces/
+# Graphics/Pictures/
+# Graphics/System/
+# Graphics/Tilesets/
+# Graphics/Titles1/
+# Graphics/Titles2/
+
+# 동영상 파일
+# Movies/
+
+# 백업 파일
+*.bak
+*~
+
+# IDE 및 에디터 설정 파일
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
