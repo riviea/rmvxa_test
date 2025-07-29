@@ -24,24 +24,24 @@ scripts.txt
 
 # 오디오 파일 (용량이 매우 크므로 Git LFS로 관리하는 것을 권장)
 # 만약 Git LFS를 사용하지 않는다면, 아래 주석을 해제하여 제외하세요.
-# Audio/BGM/
-# Audio/BGS/
-# Audio/ME/
-# Audio/SE/
+ Audio/BGM/
+ Audio/BGS/
+ Audio/ME/
+ Audio/SE/
 
 # 그래픽 파일 (용량이 크므로 Git LFS로 관리하는 것을 권장)
 # 만약 Git LFS를 사용하지 않는다면, 아래 주석을 해제하여 제외하세요.
-# Graphics/Animations/
-# Graphics/Battlebacks1/
-# Graphics/Battlebacks2/
-# Graphics/Battlers/
-# Graphics/Characters/
-# Graphics/Faces/
-# Graphics/Pictures/
-# Graphics/System/
-# Graphics/Tilesets/
-# Graphics/Titles1/
-# Graphics/Titles2/
+ Graphics/Animations/
+ Graphics/Battlebacks1/
+ Graphics/Battlebacks2/
+ Graphics/Battlers/
+ Graphics/Characters/
+ Graphics/Faces/
+ Graphics/Pictures/
+ Graphics/System/
+ Graphics/Tilesets/
+ Graphics/Titles1/
+ Graphics/Titles2/
 
 # 동영상 파일
 # Movies/
